@@ -1,0 +1,16 @@
+{
+  "name": "douban_auto_commenting",
+  "version": "1.0.0",
+  "description": "automatically comment on douban posts",
+  "main": "start.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "0.0.1-security",
+    "request": "^2.88.0"
+  }
+}
