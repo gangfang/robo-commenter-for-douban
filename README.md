@@ -1,5 +1,6 @@
 # robo-commenter-for-douban
 豆瓣自动顶帖JS脚本 (A JS script that automatically post comments on douban)
+credit: https://juejin.im/post/5b85630c6fb9a01a0231210c
 
 ## 功能
 1. 定时并自动发送豆瓣评论
